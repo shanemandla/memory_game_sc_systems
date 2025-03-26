@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or feedback, please contact:
-- **Email**: shane@shanecoresystems.com
+- **Email**: shanemandla01@gmail.com
 - **GitHub**: [shanemandla](https://github.com/shanemandla)
 
 Enjoy the game and challenge your memory skills!
